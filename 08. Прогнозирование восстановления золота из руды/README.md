@@ -8,14 +8,14 @@
 # Итоговый вывод
 **Лучшая модель -  градиентный бустинг GradientBoostingRegressor(), у которой итоговое sMAPE =  6.71 на тестовой выборке**, что меньше ошибки, которую выдает дамми модель (Итоговое sMAPE = 7.77).
 
-# Cтек
+# Примененный стек
 
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Sklearn
-Подбор гиперпараметров моделей GridSearchCV
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Sklearn
+- Подбор гиперпараметров моделей GridSearchCV
 
 ```python
 
