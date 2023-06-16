@@ -19,16 +19,10 @@
 
 # Примененный стек 
 
-- Pandas
-- NumPy
-- Math
-- Scipy
-- Matplotlib
-- Seaborn
-- Sklearn
-
-
-
-```python
-
-```
+`Pandas`
+`NumPy`
+`Math`
+`Scipy`
+`Matplotlib`
+`Seaborn`
+`Sklearn`
