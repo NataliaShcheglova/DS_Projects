@@ -10,13 +10,9 @@
 
 # Примененный стек
 
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Sklearn
-- Подбор гиперпараметров моделей GridSearchCV
-
-```python
-
-```
+`Pandas`
+`NumPy`
+`Matplotlib`
+`Seaborn`
+`Sklearn`
+`GridSearchCV`
