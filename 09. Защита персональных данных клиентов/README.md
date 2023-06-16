@@ -8,11 +8,11 @@
 
 # Примененный стек
 
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn  
-- Sklearn
+`Pandas`
+`NumPy`
+`Matplotlib`
+`Seaborn`  
+`Sklearn`
 
 # Итоговый ввод
 
