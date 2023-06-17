@@ -8,8 +8,4 @@
 
 # Стек 
 
-`Pandas`
-`Matplotlib`
-`Seaborn`
-`Sklearn`
-`SciPy`
+`Pandas` `Matplotlib` `Seaborn` `Sklearn` `SciPy`
