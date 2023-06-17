@@ -19,10 +19,4 @@
 
 # Примененный стек 
 
-`Pandas`
-`NumPy`
-`Math`
-`Scipy`
-`Matplotlib`
-`Seaborn`
-`Sklearn`
+`Pandas` `NumPy` `Math` `Scipy` `Matplotlib` `Seaborn` `Sklearn`
