@@ -15,9 +15,4 @@
 
 # Стек
 
-`Pandas`
-`NumPy`
-`Matplotlib`
-`Seaborn`
-`Sklearn`
-`Joblib`
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Sklearn` `Joblib`
