@@ -1,8 +1,5 @@
 # Yandex_Practicum_DS_Projects
-Репозиторий проектов, подготовленных в ходе курса "Специалист Data Science" в Яндекс Практикуме
-
-### О курсе
-- Ссылка на курс: https://practicum.yandex.ru/data-scientist/
+Репозиторий проектов, подготовленных в ходе курса [`Специалист Data Science`](https://practicum.yandex.ru/data-scientist/) в Яндекс Практикуме
 
 ## Проекты
 
