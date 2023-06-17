@@ -7,4 +7,4 @@
 Для выполнения проекта применены 2 способа - классический и с использованием нейронной сети BERT. 
 
 # Стек 
-`Pandas` `NumPy` `PyTorch``Transformers``re``nltk``Spacy``tqdm` `Sklearn` `TfidfVectorizer` `GridSearchCV` `LogisticRegression` `LGBMClassifier`
+`Pandas` `NumPy` `PyTorch` `Transformers` `re` `nltk` `Spacy` `tqdm` `Sklearn` `TfidfVectorizer` `GridSearchCV` `LogisticRegression` `LGBMClassifier`
