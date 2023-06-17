@@ -5,6 +5,4 @@
 Значение метрики RMSE на тестовой выборке должно быть не больше 48.
 
 # Стек 
-`Pandas` `NumPy` `time` `Matplotlib` `Seaborn` `Statsmodels`
-`Sklearn` `GridSearchCV` `TimeSeriesSplit` `LinearRegression`
-`LGBMRegressor` `XGBRegressor` `CatBoostRegressor`
+`Pandas` `NumPy` `time` `Matplotlib` `Seaborn` `Statsmodels` `Sklearn` `GridSearchCV` `TimeSeriesSplit` `LinearRegression` `LGBMRegressor` `XGBRegressor` `CatBoostRegressor`
