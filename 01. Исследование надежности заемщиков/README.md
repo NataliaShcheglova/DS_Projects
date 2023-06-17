@@ -9,6 +9,4 @@
 - цель кредита.
 
 # Примененный стек 
-`Pandas`
-`Plotly Express`
-`PyMystem3` (лемматизация целей кредита)
+`Pandas` `Plotly Express` `PyMystem3` (лемматизация целей кредита)
