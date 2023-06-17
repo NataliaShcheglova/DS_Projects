@@ -9,16 +9,4 @@
 - время обучения.
 
 # Стек 
-`Pandas`
-`NumPy` 
-`os`
-`time`
-`Matplotlib`
-`Seaborn`  
-`Sklearn` 
-`OneHotEncoder`
-`OrdinalEncoder`
-`GridSearchCV`
-`LinearRegression`
-`LGBMRegressor`
-`CatBoostRegressor`
+`Pandas` `NumPy` `os` `time` `Matplotlib` `Seaborn` `Sklearn` `OneHotEncoder` `OrdinalEncoder` `GridSearchCV` `LinearRegression` `LGBMRegressor` `CatBoostRegressor`
