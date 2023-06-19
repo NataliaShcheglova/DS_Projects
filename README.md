@@ -3,7 +3,7 @@
 
 ## Проекты
 
-|№| Название | Общая информация | Стек |
+|№| Название проекта | Описание проекта | Стек |
 |:---|:-------------------|:----------------------------------------------------------|:-----------:|
 |13  |[Определение возраста по фотографии (Computer vision)](https://github.com/NataliaShcheglova/Yandex_Practicum_DS_Projects/tree/main/13.%20%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%BE%D0%B7%D1%80%D0%B0%D1%81%D1%82%D0%B0%20%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9)|Построить модель машинного обучения, определяющую примерный возраст человека по фотографии для системы компьютерного зрения сетевого супермаркета |`Pandas` `Numpy` `Matplotlib` `Seaborn` `Keras` `TensorFlow` `Adam` `ResNet50`|
 |12  |[Выявление токсичных комментариев (NLP)](https://github.com/NataliaShcheglova/Yandex_Practicum_DS_Projects/tree/main/12.%20%D0%92%D1%8B%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%82%D0%BE%D0%BA%D1%81%D0%B8%D1%87%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B5%D0%B2)|Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. Для этого необходимо обучить модель классифицировать комментарии на позитивные и негативные|`Pandas` `NumPy` `PyTorch` `Transformers` `re` `nltk` `Spacy` `tqdm` `Sklearn` `TfidfVectorizer` `GridSearchCV` `LogisticRegression` `LGBMClassifier`|
