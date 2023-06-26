@@ -8,3 +8,9 @@
 
 # Стек 
 `Pandas` `NumPy` `PyTorch` `Transformers` `re` `nltk` `Spacy` `tqdm` `Sklearn` `TfidfVectorizer` `GridSearchCV` `LogisticRegression` `LGBMClassifier`
+
+# Вывод 
+- **Проект для выполнен двумя способами - с помощью нейронки BERT и без нее.**
+- Без нейронки: Обучены модели LogisticRegression() и LGBMClassifier(). Подбор параметров осуществлен с помощью GridSearchCV. Лучшая модель LogisticRegression co значением f1-мера = 0.78 на тестовой выборке.
+- С применением BERT: Обучены модели LogisticRegression(). Подбор параметров осуществлен с помощью GridSearchCV. Лучшая модель с использованием нейронки BERT и LogisticRegression co значением f1-мера = 0.97 на тестовой выборке
+- Применение BERT позволило значительно улучшить показателиб значение f1 меры на тесте выросло с 0.78 до 0.97, но нейронная сеть считается колоссальное количество времени, потмоу в учебном проекте является неудобной.
