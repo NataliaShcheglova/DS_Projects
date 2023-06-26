@@ -10,3 +10,11 @@
 
 # Стек 
 `Pandas` `NumPy` `os` `time` `Matplotlib` `Seaborn` `Sklearn` `OneHotEncoder` `OrdinalEncoder` `GridSearchCV` `LinearRegression` `LGBMRegressor` `CatBoostRegressor`
+
+# Вывод 
+- Обучены и провалидированы разные модели для прогнозирования цены автомобиля: LinearRegression, LGBMRegression и CatBoostRegression.
+- Лучшая модель CatBoostRegressor на тесте показала RMSE = 1525, что ниже требуемого RMSE = 2500. Время оучения модели с лучшими параметрами, заранее подобранными с посощью GridSearchCV, составило 41.6 s, а предсказание заняло 109 ms.
+- Проведено кодирование столбцов с категориальными значениями:
+  - прямое кодирование (OHE) для работы с LinearRegression.
+  - порядковое кодирование Ordinal Encoding для раоты с LGBMRegression.
+  - для работы с CatBoostRegression изменена категория столбцов с object на category.
