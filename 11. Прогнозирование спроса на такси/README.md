@@ -6,3 +6,8 @@
 
 # Стек 
 `Pandas` `NumPy` `time` `Matplotlib` `Seaborn` `Statsmodels` `Sklearn` `GridSearchCV` `TimeSeriesSplit` `LinearRegression` `LGBMRegressor` `XGBRegressor` `CatBoostRegressor`
+
+# Вывод 
+- Проведена подготовка и анализ данных.
+- Обучены и провалидированы разные модели для прогнозирования спроса на такси: LinearRegression, LGBMRegression и XGBRegressor. Подбор параметров осуществлен с помощью GridSearchCV. Лучшая модель LGBMRegressor показала метрику RMSE = 45.313, что ниже отметки 48 по заданию, а также ниже значения 87.153, показанного дамми моделью. 
+- Написана функция для подсчета RMSE, и создана метрика для оценки качества моделей с помощью make_corer.
